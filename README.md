@@ -5,4 +5,4 @@ I'am a passionate Full-Stack Developer. I really enjoy learning new languages an
 
 ![](https://komarev.com/ghpvc/?username=Rajesh-P-07)
 
-All my projects are available at https://github.com/Rajesh-P-07/Rajesh-P-07.github.io
+All my projects are available at https://rajesh-p-07.github.io/
